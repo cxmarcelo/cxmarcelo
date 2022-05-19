@@ -1,4 +1,8 @@
-### Hi there 👋
+### System.out.println("Hi there 👋");
+
+- 💻 I’m currently working as Junior Developer on 3CON CONSULT. E SISTS. S.A.
+- 📚 I’m currently learning programming languages in general.
+- 📫 How to reach me: <a href="mailto:marcelo.c.b22@gmail.com" target="_blank"> marcelo.c.b22@gmail.com </a>
 
 <div align="center">
   <a href="https://github.com/cxmarcelo">
@@ -32,18 +36,3 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
 </div>
-  
-<!--
-**cxmarcelo/cxmarcelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
