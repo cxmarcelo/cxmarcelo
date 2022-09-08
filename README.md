@@ -1,6 +1,6 @@
 ### System.out.println("Hi there 👋");
 
-- 💻 I’m currently working as Junior Developer on 3CON CONSULT. E SISTS. S.A.
+- 💻 I’m currently working as Developer on 3CON CONSULT. E SISTS. S.A.
 - 📚 I’m currently learning programming languages in general.
 - 📫 How to reach me: <a href="mailto:marcelo.c.b22@gmail.com" target="_blank"> marcelo.c.b22@gmail.com </a>
 
